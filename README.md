@@ -2,7 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7A31A&random=false&width=435&lines=Software+Engineer+;Always+learning+new+things+" alt="Typing SVG" /></a>
 
-You have finally discovered my Github profile. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+You have finally discovered my Github profile.<br>
+## About me :mortar_board:
+I am a student, currently at An-Najah National University, cap majoring in software engineering pathway. I have successfully completed a course in web and mobile development and database management, acquiring a range of skills related to designing sites and pages and working within a team and trying to be an admin on a team of 12 trainees. I think my knowledge and practical skills will enable me to deal effectively with the challenges and demands of the job market. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  🧠
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narjes-nairat-1100461a7/)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/narjes_nairat)
